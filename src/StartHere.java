@@ -5,7 +5,6 @@ public class StartHere {
 		String second_welcome = "So your staying. Okay. Well we gonna play a game or you could just leave.";
 		String third_welcome = "Nope you're still here. Are you ready you disobedient human?";
 
-
 		CreateMsg welcome = new CreateMsg();
 		welcome.msg(first_welcome);
 		welcome.msg(second_welcome);

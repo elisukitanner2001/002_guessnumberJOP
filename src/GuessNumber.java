@@ -98,7 +98,6 @@ public class GuessNumber {
 			
 		} */
 
-
 		// for (int i = 0; i<100; i++) {
 		// System.out.println(i + ", rand =" + (rand.nextInt(upperLimit) + lowerLimit));
 		// }
